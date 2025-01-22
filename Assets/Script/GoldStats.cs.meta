@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 276a978f4c266eb41a4c81ad5b6402a0
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - goldCountText: {instanceID: 0}
+  - coinSFX: {fileID: 8300000, guid: 96060e2f379b90e46b523b15ef42b3d2, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
